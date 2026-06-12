@@ -1,0 +1,16 @@
+Metric,CMOS_90nm,FinFET_18nm,Unit,Improvement_Percentage
+Read Time,2.4,1.4,microseconds,-41.7%
+Write Time,3.1,1.2,microseconds,-61.3%
+Sense Amplifier Delay,0.8,0.3,microseconds,-62.5%
+Rise Time,0.15,0.06,microseconds,-60%
+Fall Time,0.18,0.08,microseconds,-55.6%
+Average Power Consumption,18.5,0.46,microwatts,-97.5%
+Leakage Power,12.3,0.18,microwatts,-98.5%
+Dynamic Power,6.2,0.28,microwatts,-95.5%
+Noise Margin High,0.65,0.35,volts,-46.2%
+Noise Margin Low,0.58,0.32,volts,-44.8%
+Cell Area,45.2,1.8,square micrometers,-96%
+Operating Frequency,416.7,714.3,MHz,71.4%
+Energy per Bit,44.4,1.1,picojoules,-97.5%
+Supply Voltage,1.8,0.8,volts,-55.6%
+Threshold Voltage,0.45,0.25,volts,-44.4%

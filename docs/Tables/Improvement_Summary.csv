@@ -1,0 +1,16 @@
+Category,Metric,CMOS Value,FinFET Value,Improvement Factor,Significance
+Performance,Read Time,2.4 µs,1.4 µs,1.71x,41.7% faster reads
+Performance,Write Time,3.1 µs,1.2 µs,2.58x,61.3% faster writes
+Performance,SA Delay,0.8 µs,0.3 µs,2.67x,62.5% faster detection
+Performance,Max Frequency,416.7 MHz,714.3 MHz,1.71x,71.4% higher frequency
+Power,Average Power,18.5 µW,0.46 µW,40.2x,97.5% power reduction
+Power,Leakage Power,12.3 µW,0.18 µW,68.3x,98.5% leakage reduction
+Power,Dynamic Power,6.2 µW,0.28 µW,22.1x,95.5% dynamic reduction
+Power,Energy per Bit,44.4 pJ,1.1 pJ,40.4x,97.5% efficiency gain
+Area,Cell Area,45.2 µm²,1.8 µm²,25.1x,96% area reduction
+Area,Memory Density,22.1 cells/mm²,555.6 cells/mm²,25.1x,2410% density increase
+Voltage,Supply Voltage,1.8 V,0.8 V,0.44x,55.6% voltage reduction
+Voltage,Threshold Voltage,0.45 V,0.25 V,0.56x,44.4% lower threshold
+Scalability,Feature Size,90 nm,18 nm,0.2x,5x technology scaling
+Scalability,Leakage Control,Moderate,Excellent,High,FinFET advantage
+Scalability,Gate Control,2D,3D,Superior,Better short-channel control
