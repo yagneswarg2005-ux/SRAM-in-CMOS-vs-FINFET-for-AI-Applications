@@ -1,6 +1,6 @@
 # Design and Performance Analysis of SRAM Across CMOS and FinFET for AI Applications
 
-## 📋 Project Overview
+##  Project Overview
 
 This repository contains the complete design, simulation files, and performance analysis of a **1-bit SRAM cell** and its peripheral circuits (precharge, write driver, latch-based sense amplifier) implemented in **CMOS (90nm, 1.8V)** and **FinFET (18nm, 0.8V)** technologies using **Cadence Virtuoso ADE L with Spectre simulator**.
 
@@ -8,7 +8,7 @@ The project provides a comprehensive comparison of key performance metrics betwe
 
 ---
 
-## 🎯 Key Results
+##  Key Results
 
 | Metric | CMOS (90nm) | FinFET (18nm) | Improvement |
 |--------|-----------|---------------|-------------|
@@ -21,7 +21,7 @@ The project provides a comprehensive comparison of key performance metrics betwe
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 SRAM-in-CMOS-vs-FINFET-for-AI-Applications/
@@ -72,7 +72,7 @@ SRAM-in-CMOS-vs-FINFET-for-AI-Applications/
 
 ---
 
-## 🔧 Technical Details
+##  Technical Details
 
 ### CMOS Implementation
 - **Technology Node**: 90nm
@@ -103,7 +103,7 @@ SRAM-in-CMOS-vs-FINFET-for-AI-Applications/
 
 ---
 
-## 🚀 Applications
+##  Applications
 
 This research is particularly relevant for:
 - **AI Hardware Accelerators**: Efficient on-chip SRAM for ML models
@@ -138,32 +138,32 @@ python scripts/plot_results.py
 
 ---
 
-## 📝 Project Report
+##  Project Report
 
 For a comprehensive technical report including methodology, detailed measurements, and analysis, refer to:
 - **[Project Report Summary](docs/Project_Report_Summary.md)**
 
 ---
 
-## 🌍 Sustainability Impact
+##  Sustainability Impact
 
 This work contributes to **UN Sustainable Development Goal 9 (Industry, Innovation, and Infrastructure)** by advancing energy-efficient semiconductor design, reducing the carbon footprint of AI computing, and supporting sustainable innovation in technology.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Yagneswarg** - [GitHub](https://github.com/yagneswarg2005-ux)
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Cadence Design Systems for simulation tools
 - Semiconductor research community for FinFET technology insights
@@ -171,7 +171,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 Questions or Feedback?
+##  Questions or Feedback?
 
 Feel free to open an **Issue** or **Discussion** if you have questions, suggestions, or would like to collaborate!
 
