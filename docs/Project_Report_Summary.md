@@ -33,12 +33,8 @@ Both implementations use the classic 6T SRAM configuration:
 ### 2.2 Simulation Environment
 
 - **EDA Tool**: Cadence Virtuoso with ADE L interface
-- **Simulator**: Spectre SPICE simulator
 - **Process Models**: PTM (Predictive Technology Model) for CMOS; Intel/TSMC FinFET PDK
-- **Analysis Types**:
-  - **Transient Analysis**: Captures dynamic behavior during read/write operations
-  - **Parametric Analysis**: Sweeps across process corners
-  - **Monte Carlo Analysis**: Statistical variation assessment
+ 
 
 ### 2.3 Performance Metrics
 
@@ -221,12 +217,7 @@ These improvements are essential for realizing energy-efficient AI accelerators 
 ---
 
 ## 8. References
-
-1. Predictive Technology Model (PTM) - Arizona State University
-2. Cadence Spectre Simulator Documentation
-3. ITRS Roadmap - International Technology Roadmap for Semiconductors
-4. FinFET Technology Overview - Intel, TSMC Technical Papers
-5. AI Accelerator Design - Tesla, Google TPU Architecture Papers
+1. Cadence Spectre Simulator Documentation rs
 
 ---
 
